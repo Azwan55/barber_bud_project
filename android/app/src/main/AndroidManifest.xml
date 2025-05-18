@@ -36,7 +36,7 @@ package="com.example.final_year_project">
             android:value="2" />
             <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDi9SoHuTtrf49Bp8IGRFuqBJLbHwSNSAQ"/>
+            android:value="google_api_key"/>
     </application>
     <!-- Required to query activities that can process text, see:
          https://developer.android.com/training/package-visibility and
